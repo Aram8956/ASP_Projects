@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\pics\\ASP\\Final\\FinalSolution\\MiniApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C335B7-FD4D-478A-A69D-C10C8F1D07D2}|MiniApi\\MiniApi.csproj|c:\\users\\user\\desktop\\pics\\asp\\final\\finalsolution\\miniapi\\miniapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C335B7-FD4D-478A-A69D-C10C8F1D07D2}|MiniApi\\MiniApi.csproj|solutionrelative:miniapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C335B7-FD4D-478A-A69D-C10C8F1D07D2}|MiniApi\\MiniApi.csproj|c:\\users\\user\\desktop\\pics\\asp\\final\\finalsolution\\miniapi\\miniapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C335B7-FD4D-478A-A69D-C10C8F1D07D2}|MiniApi\\MiniApi.csproj|solutionrelative:miniapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\pics\\ASP\\Final\\FinalSolution\\MiniApi\\MiniApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\pics\\ASP\\Final\\FinalSolution\\MiniApi\\MiniApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MiniApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:28:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\pics\\ASP\\Final\\FinalSolution\\MiniApi\\MiniApi\\Program.cs",
+              "RelativeDocumentMoniker": "MiniApi\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\pics\\ASP\\Final\\FinalSolution\\MiniApi\\MiniApi\\Program.cs",
+              "RelativeToolTip": "MiniApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:25:50.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
